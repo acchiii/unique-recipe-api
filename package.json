@@ -1,0 +1,29 @@
+{
+  "name": "unique-recipe-api",
+  "version": "1.0.0",
+  "description": "Unique Recipe API — Random recipe generator, search by ingredient, and serving scaler (Express.js).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "recipe",
+    "api",
+    "express",
+    "random",
+    "scale",
+    "cook"
+  ],
+  "author": "Created for user",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
