@@ -5,42 +5,19 @@
       "title": "Garlic Butter Pasta",
       "servings": 2,
       "ingredients": [
-        {
-          "name": "spaghetti",
-          "amount": 200,
-          "unit": "g"
-        },
-        {
-          "name": "butter",
-          "amount": 30,
-          "unit": "g"
-        },
-        {
-          "name": "garlic cloves",
-          "amount": 3,
-          "unit": "pcs"
-        },
-        {
-          "name": "parmesan",
-          "amount": 20,
-          "unit": "g"
-        },
-        {
-          "name": "salt",
-          "amount": 1,
-          "unit": "tsp"
-        }
+        { "name": "spaghetti", "amount": 200, "unit": "g" },
+        { "name": "butter", "amount": 30, "unit": "g" },
+        { "name": "garlic cloves", "amount": 3, "unit": "pcs" },
+        { "name": "parmesan", "amount": 20, "unit": "g" },
+        { "name": "salt", "amount": 1, "unit": "tsp" }
       ],
       "steps": [
         "Cook pasta according to package instructions.",
-        "Melt butter and saut\u00e9 garlic until fragrant.",
+        "Melt butter and sauté garlic until fragrant.",
         "Toss pasta with garlic butter and parmesan.",
         "Serve immediately."
       ],
-      "tags": [
-        "quick",
-        "vegetarian"
-      ],
+      "tags": ["quick", "vegetarian"],
       "createdAt": "2025-09-14T04:17:30.147498Z"
     },
     {
@@ -48,41 +25,18 @@
       "title": "Tomato Basil Soup",
       "servings": 4,
       "ingredients": [
-        {
-          "name": "tomatoes",
-          "amount": 800,
-          "unit": "g"
-        },
-        {
-          "name": "onion",
-          "amount": 1,
-          "unit": "pc"
-        },
-        {
-          "name": "garlic cloves",
-          "amount": 2,
-          "unit": "pcs"
-        },
-        {
-          "name": "basil",
-          "amount": 10,
-          "unit": "g"
-        },
-        {
-          "name": "vegetable stock",
-          "amount": 500,
-          "unit": "ml"
-        }
+        { "name": "tomatoes", "amount": 800, "unit": "g" },
+        { "name": "onion", "amount": 1, "unit": "pc" },
+        { "name": "garlic cloves", "amount": 2, "unit": "pcs" },
+        { "name": "basil", "amount": 10, "unit": "g" },
+        { "name": "vegetable stock", "amount": 500, "unit": "ml" }
       ],
       "steps": [
-        "Saut\u00e9 onion and garlic.",
+        "Sauté onion and garlic.",
         "Add tomatoes and stock, simmer 20 minutes.",
         "Blend until smooth, stir in basil and season."
       ],
-      "tags": [
-        "soup",
-        "comfort"
-      ],
+      "tags": ["soup", "comfort"],
       "createdAt": "2025-09-14T04:17:30.147508Z"
     },
     {
@@ -90,40 +44,74 @@
       "title": "Chicken Adobo (Simplified)",
       "servings": 3,
       "ingredients": [
-        {
-          "name": "chicken pieces",
-          "amount": 500,
-          "unit": "g"
-        },
-        {
-          "name": "soy sauce",
-          "amount": 60,
-          "unit": "ml"
-        },
-        {
-          "name": "vinegar",
-          "amount": 60,
-          "unit": "ml"
-        },
-        {
-          "name": "garlic cloves",
-          "amount": 5,
-          "unit": "pcs"
-        },
-        {
-          "name": "bay leaf",
-          "amount": 2,
-          "unit": "pcs"
-        }
+        { "name": "chicken pieces", "amount": 500, "unit": "g" },
+        { "name": "soy sauce", "amount": 60, "unit": "ml" },
+        { "name": "vinegar", "amount": 60, "unit": "ml" },
+        { "name": "garlic cloves", "amount": 5, "unit": "pcs" },
+        { "name": "bay leaf", "amount": 2, "unit": "pcs" }
       ],
       "steps": [
         "Combine ingredients and simmer until chicken is cooked and sauce is reduced."
       ],
-      "tags": [
-        "filipino",
-        "main"
-      ],
+      "tags": ["filipino", "main"],
       "createdAt": "2025-09-14T04:17:30.147512Z"
+    },
+    {
+      "id": "r4",
+      "title": "Beef Stir-Fry",
+      "servings": 2,
+      "ingredients": [
+        { "name": "beef strips", "amount": 300, "unit": "g" },
+        { "name": "soy sauce", "amount": 30, "unit": "ml" },
+        { "name": "oyster sauce", "amount": 20, "unit": "ml" },
+        { "name": "bell pepper", "amount": 1, "unit": "pc" },
+        { "name": "onion", "amount": 1, "unit": "pc" }
+      ],
+      "steps": [
+        "Heat oil and stir-fry beef until browned.",
+        "Add vegetables and sauces, cook until tender.",
+        "Serve hot with rice."
+      ],
+      "tags": ["asian", "quick", "main"],
+      "createdAt": "2025-09-14T04:17:30.147520Z"
+    },
+    {
+      "id": "r5",
+      "title": "Pancakes",
+      "servings": 4,
+      "ingredients": [
+        { "name": "flour", "amount": 200, "unit": "g" },
+        { "name": "milk", "amount": 250, "unit": "ml" },
+        { "name": "egg", "amount": 1, "unit": "pc" },
+        { "name": "sugar", "amount": 2, "unit": "tbsp" },
+        { "name": "baking powder", "amount": 1, "unit": "tsp" }
+      ],
+      "steps": [
+        "Mix dry ingredients in a bowl.",
+        "Whisk in milk and egg until smooth.",
+        "Cook spoonfuls on a hot pan until golden on both sides.",
+        "Serve with syrup or toppings."
+      ],
+      "tags": ["breakfast", "sweet", "easy"],
+      "createdAt": "2025-09-14T04:17:30.147528Z"
+    },
+    {
+      "id": "r6",
+      "title": "Mango Smoothie",
+      "servings": 2,
+      "ingredients": [
+        { "name": "ripe mango", "amount": 2, "unit": "pcs" },
+        { "name": "milk", "amount": 200, "unit": "ml" },
+        { "name": "ice cubes", "amount": 6, "unit": "pcs" },
+        { "name": "honey", "amount": 1, "unit": "tbsp" }
+      ],
+      "steps": [
+        "Peel and slice mangoes.",
+        "Blend with milk, honey, and ice until smooth.",
+        "Serve chilled."
+      ],
+      "tags": ["drink", "refreshing", "fruit"],
+      "createdAt": "2025-09-14T04:17:30.147532Z"
     }
   ]
 }
